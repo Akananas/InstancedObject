@@ -1,0 +1,16 @@
+{
+  "name": "com.ikenanas.instancedobject",
+  "version": "0.1.1",
+  "displayName": "Instanced Object",
+  "description": "Add editor panel to easily edit SerializeReference. You only need to add InstancedObject",
+  "unity": "2020.3",
+ 	"keywords": [
+    "softptr",
+    "instancedobject"
+  ],
+  "author": {
+    "name": "Ikenanas",
+    "email": "francois.charrier23@gmail.com",
+    "url": "https://www.unity3d.com"
+  }
+}
